@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Bienvenue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Bienvenue"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "1858c97bdcbf9b16",
   "lastOpenFiles": [
+    "index.md",
     "Bienvenue.md"
   ]
 }
